@@ -1,9 +1,9 @@
 package com.peopleManagerJavaSpringBoot.personManager.mapper;
 
-import org.mapstruct.Mapper;
-import org.mapstruct.factory.Mapper;
+//import org.mapstruct.Mapper;
+//import org.mapstruct.factory.Mapper;
 
-@Mapper
+//@Mapper
 public class PersonMapper {
-    PersonMapper INSTANCE = Mappers.getMapper(PersonMapper.class);
+    //PersonMapper INSTANCE = Mappers.getMapper(PersonMapper.class);
 }
